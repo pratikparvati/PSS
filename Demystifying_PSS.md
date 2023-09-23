@@ -99,7 +99,7 @@ Electronic Design Automation (EDA) tool vendors have been proactive in incorpora
 
 Big players in the semiconductor industry are taking the lead in adopting PSS. These industry leaders understand the significant benefits that PSS brings in terms of improving the efficiency and dependability of verification. Their support and use of PSS are propelling it towards becoming a widely accepted and recommended approach in semiconductor verification.
 
-#### . Acknowledgment Across the Industry
+#### 4. Acknowledgment Across the Industry
 
 PSS is widely recognized as a transformative factor in semiconductor verification. Industry leaders, engineers, and verification experts have all recognized its potential to bring about significant changes in the verification methods.
 
