@@ -91,7 +91,8 @@ We can create several test scenarios using the PSS model to confirm various elem
 - Steps: 
   -  Turn on the system.
   -  Bootloader loaded from non-volatile storage and CPU initialized.
-  -  The bootloader loads the operating system, sets up peripherals, and initializes memory.- The operating system assumes command, finishes startup, and launches application services.
+  -  The bootloader loads the operating system, sets up peripherals, and initializes memory.
+  -  The operating system assumes command, finishes startup, and launches application services.
 -  Anticipated Result: The system boots up successfully, with accurate initialization of all hardware and software components.
   
 ###### ii. Power Failure Scenario
