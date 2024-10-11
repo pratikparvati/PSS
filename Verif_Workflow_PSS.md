@@ -68,7 +68,7 @@ In fact, one of the very important advantages of PSS is its portability across v
 
 - Consistency: PSS tests are created once and can then be applied to multiple environments without needing any adjustments. This means that the same test cases will run at maximum consistency hence having no discrepancies of different iterations since the test is being rewritten for a different environment. This helps with fast transition from one developmental stage to another, and verification is now efficient.
 
-E. Correct Debugging and Maintenance
+### E. Correct Debugging and Maintenance
 
 If the designs become big and the system intricate, maintenance and debugging PSS models will be too complex. This is one reason model readability has to be made easier and debugging more straightforward as part of workflow simplification.
 
